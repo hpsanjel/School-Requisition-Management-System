@@ -1,4 +1,4 @@
-# SchoolRequisitionManagementSystem
+# School Requisition Management System
 
 The Online School Requisition Management System is a web-based application designed to streamline the process of managing school requisitions, attendance, and communication among teachers, staff, supervisors, store personnel, receptionists, and principals. This system facilitates the ordering of items for student and staff use, tracks attendance, handles complaints and compliments, and ensures efficient communication within the school environment.
 
